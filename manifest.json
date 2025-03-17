@@ -1,0 +1,9 @@
+{
+  "description": "A cross-platform news timeline game where players need to put news events in the correct chronological order.",
+  "display": "standalone",
+  "lang": "en",
+  "name": "Hitster",
+  "short_name": "Hitster",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}

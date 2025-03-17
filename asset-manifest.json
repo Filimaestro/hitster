@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/Filimaestro/hitster/static/js/main.397bc7e9.js",
+    "static/js/539.2f4bd49a.js": "/Filimaestro/hitster/static/js/539.2f4bd49a.js",
+    "index.html": "/Filimaestro/hitster/index.html",
+    "manifest.json": "/Filimaestro/hitster/manifest.json",
+    "serve.json": "/Filimaestro/hitster/serve.json",
+    "main.397bc7e9.js.map": "/Filimaestro/hitster/static/js/main.397bc7e9.js.map",
+    "539.2f4bd49a.js.map": "/Filimaestro/hitster/static/js/539.2f4bd49a.js.map"
+  },
+  "entrypoints": [
+    "static/js/539.2f4bd49a.js",
+    "static/js/main.397bc7e9.js"
+  ]
+}

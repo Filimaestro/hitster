@@ -1,0 +1,60 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Relus ter Beek overleden",
+      "description": "Commissaris van de koningin Relus ter Beek overlijdt op 64-jarige leeftijd.",
+      "date": "29 september, 2008",
+      "imageUrl": "https://i.regiogroei.cloud/ff65cf43-89b7-3619-b8a3-8229937d5f77.jpg",
+      "articleUrl": "https://www.rtvdrenthe.nl/nieuws/37794/cdk-relus-ter-beke-overleden"
+    },
+    {
+      "id": "2",
+      "title": "De koning opent Wildlands",
+      "description": "Koning Willem-Alexander opent de nieuwe dierentuin in Emmen.",
+      "date": "18 maart, 2016",
+      "imageUrl": "https://i.regiogroei.cloud/4fd570f3-494d-398b-8d0b-2bd87694b4df.jpg",
+      "articleUrl": "https://www.rtvdrenthe.nl/nieuws/106965/in-beeld-koning-willem-alexander-opent-wildlands-adventure-zoo"
+    },
+    {
+      "id": "3",
+      "title": "Daniël Lohues op 1 van eerste Drentse 1000",
+      "description": "Hier kom ik weg stond in de eerste editie op nummer één.",
+      "date": "31 december, 2021",
+      "imageUrl": "https://i.regiogroei.cloud/42d8a1c1-d6e9-3ce2-8c91-db45997622f3.jpg",
+      "articleUrl": "https://www.rtvdrenthe.nl/nieuws/176904/dit-is-de-lijst-van-de-drentse-1000-met-daniel-lohues-als-nummer-1"
+    },
+    {
+      "id": "4",
+      "title": "'Boerderijgezin' Ruinerwold ontdekt",
+      "description": "In een afgelegen boerderij in Ruinerwold wordt een gezin ontdekt dat wacht op het einde der tijden.",
+      "date": "15 oktober, 2019",
+      "imageUrl": "https://i.regiogroei.cloud/0fbe1042-4fef-3a6b-b035-784f30a97315.jpg",
+      "articleUrl": "https://www.rtvdrenthe.nl/nieuws/153029/vader-met-zes-kinderen-zit-jaren-in-kelder-ruinerwold-familie-wachtte-op-einde-der-tijden"
+    },
+    {
+      "id": "5",
+      "title": "De wolf wordt na honderden jaren gezien in Drenthe",
+      "description": "Voor het eerst sinds 1780 loopt het dier in onze provincie.",
+      "date": "15 maart, 2015",
+      "imageUrl": "https://i.regiogroei.cloud/f00a139e-ee85-3ebb-bcb8-e55479b9bdb8.jpg",
+      "articleUrl": "https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/"
+    },
+    {
+      "id": "6",
+      "title": "Wolf doodgeschoten in Wapse",
+      "description": "De wolf beet een schapenhouder in zijn arm. Burgemeester Rikus Jager liet het beest afschieten.",
+      "date": "9 juli, 2023",
+      "imageUrl": "https://i.regiogroei.cloud/e2f2f5dc-c861-3553-958b-5c18946b4639.jpg",
+      "articleUrl": "https://www.rtvdrenthe.nl/nieuws/15710279/wolf-doodgeschoten-na-bijtincident-met-schapenboer-wapse"
+    },
+    {
+      "id": "7",
+      "title": "FC Emmen voor het eerst naar de Eredivisie",
+      "description": "FC Emmen verslaat Sparta en promoveert voor het eerst naar het hoogste niveau.",
+      "date": "20 mei, 2018",
+      "imageUrl": "https://i.regiogroei.cloud/78f3e5ac-39db-38dc-8218-8eb5be3c9309.jpg",
+      "articleUrl": "https://www.rtvdrenthe.nl/nieuws/134862/kijk-terug-de-huldiging-van-fc-emmen"
+    }
+  ]
+} 

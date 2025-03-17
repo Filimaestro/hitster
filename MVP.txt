@@ -1,0 +1,24 @@
+The MVP of a 'Hitster' type game for news events
+
+Description
+A puzzle where users have to put news events on a timeline in the correct order. The game has to be made for mobile, but also has to work on desktop. But the UI has to be mobile oriented.
+So not a lot of horizontal stuff.
+
+Key features frontend
+1. A timeline with 4 news events randomly placed on it
+2. The possibiliy to drag news events to a different place on the timeline (or press a button to move them)
+3. A submit button that shows the user is finished and wants to check his answer
+4. A timer that runs up until the user submits their answer
+5. The events shown are made up of a photo and a header, they are linked to articles that can be visited (if available)
+
+Key features backend
+1. Possibility to add news events to the database
+2. Possibility to remove news events from the database
+
+Expansion after MVP
+1. Daily AI generated puzzles based on the content of a news website, using ChatGPT Assistants or Agents
+
+Rules for AI Agent:
+1. You only alter the necessary code
+2. When you need to make big changes that include other pieces of code, you always explain why and what you are doing. And you always question yourself at least once to see if you have the right solution
+3. You document all your changes and reasoning in the Notes.txt file, there you also change the version number. It increments +0.1. Big changes or big pushes do a +1.0
